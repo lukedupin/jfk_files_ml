@@ -5482,3 +5482,27283 @@ N. CEAIRAL
 color	0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 
 
+140000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+1000
+1
+1
+1
+11-1---------------------------------------------------------1---1' 1' ---' 1000000 1''1'''1''1'' 	colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+1
+SECTET
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+F
+F
+
+
+
+ "                                                                 \colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+140000
+SECRET
+F. incin
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+11111111111111111111111
+1
+
+	
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+14/02/2000
+FRI doz
+270ct 69 (Miami
+Re - Antonis Cuesto Valle
+Bureau # 105-1795
+
+
+14/02/00
+01 CUESTA
+VATE
+AN/CTN: 10
+20
+SUPPLY EXPIRATORY FASTER
+103
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+111
+11
+1
+1
+1
+11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+14/20/00
+SECRET
+- F.1.1.1.
+COCUMENT TRANSFER AND CROSS REFERENCE
+COCUMENT (ENTIFICATIONS
+SUBJECT OF DOCUMENT
+#1 FILE NO.
+S. SEPIATE 34 SOURCE CODE. STRE88L co.
+e. BATE
+T. SOURCE SEPIATE 3. BATE OF 1800-
+S. MALVEST
+G. RATE PROCESSED
+18. STRE881BATED 18
+18. BATE
+DOCUMENT DIPOPISITION
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUNCER
+18. COUN
+1
+
+
+FBI doc
+10 May 68 (Miami)
+Re - antonis Cuesta Valle
+(aka - Tony Cuesta)
+Bureau# mm 105-1795
+FBI doc
+29 april 68 (Miami)
+Re: Commandos L
+
+
+14/20/00
+OGC 68-0374
+5 March 1968
+MEMORANDUM FOR: Chief, WH/COG
+SUBJECT:
+James C. Wray
+1. I called Mr. James C. Wray today to determine his reason
+for having called the Agency on 27 February regarding Antonio CUESTA
+Del Valls's patent application. At that time Wray had stated that as a
+patent attorney he was representing CUESTA who had an application
+pending on which some $140 in fees was due.
+2. Wray advised that he had been retained by CUESTA several
+years ago to file an application concerned with a high speed boat on
+which a patent was ready to issue upon payment of $140 in filing fees.
+He stated further that as a consequence of CUESTA's subsequent capture
+he had been unable to communicate with him and that he had failed in his
+efforts to interest CUESTA's friends in assuming responsibility for the
+fees. Wray readily accepted my representations that the Agency had no
+responsibility in the matter. According to him, he had called us merely
+as a matter of last resort.
+3. I found Wray's description of the boat's configuration and
+attributes to be interesting. While emphasizing that we had no re-
+sponsibility for his claim's present situation or for his fees, I suggested
+that he might want to provide me with the boat's specifications. Wray
+accepted this suggestion. My thought here was that an item of this nature
+might be of interest to SOD/Maritime Branch.
+ROBERT BLADERGROEN
+Assistant General Counsel
+cc: Mr. George LaGner (C3)
+201-281313
+
+
+14/00/00
+SIMILARY WILL CHECK CLASSIFIC
+W TOP AND BOTTOM
+UNCLASSIFIED
+CUM CENTIAL
+SEKRET
+OFFICIAL ROUTING SLIP
+TO
+NAMF AND ADDRESS
+DATE
+INITIALS
+1
+many
+2
+3
+4
+5
+6
+ACTION
+DIRECT REPLY
+PREPARE REPLY
+APPROVAL
+DEPARTMENT
+DEPARTMENT
+COMMENT
+RETORN
+RECORDENCE
+INFORMATION
+INSTRATEE
+Remarks:
+after much sipping and gaging
+we agreed if with he chesable
+to return call as a matter of
+Comtery. Please ask OGE to
+do so - disning any knowledge
+of the matter
+the Balaggev called Fruit handl matter 3/4/88
+FOLD HERE TO RETURN TO SENDER
+FROM: NAME, ADDRESS AND PHONE NO.
+DATE
+PO
+3/4/68
+UNCLASSIFIED
+CONFIDENTIAL
+SECRET
+237
+the previous editions
+700
+600
+
+
+140000
+DATE 21 February 15
+TIME 1520 Fours
+NAME
+NAME C. 1520
+GRADE H/A
+OFFICE H/A
+Lursey Building, Room 1204
+1329 "St., N.W., Washington, D.C.
+Fance: 112 0-5555
+INCIDENT Request for assistance
+TIME 1520 Eours PLACE Fecduert's
+SUNMARY OF INFORMATION:
+At 1250 hours, Mr. James C. VRAY called identifying himself as a Patent
+Attorney and requested someone contact him concerning Mr. Anthony CUCEDA.
+Mr. Cuetta, according to Mr. Viray, filed a patent application, $472 763,
+on 19 July 1965, for a high speed boat with a flexible hull. 12. Wray
+said that after filing, Mr. Cuetta left the United States and is now in
+a Cuban prison. Mr. Viray stated the reason he called in that the
+the Agency to either pay $415.00 for the patent information. The deadline
+is 10 April 1968, or tall to the Patent Office. Advised: Wray that a
+report would be made of his call. 201- 281313
+Sincerely division of G. Halbogman and
+WHICeEKO. Aged No response should.
+3/1/96
+WY Seawly /Hamed could and is D
+P20.
+A brand return them. which will also
+ACTION TAKEN:
+A check in SR & CD was negative re Mr. Wray but two files, 242 095 and
+530 $16, were found on Mr. Cuetta.
+THE
+REPORTING OFFICER
+CHIEF, BUILDING SECURITY BRANCH,
+William E. Craig
+ROBERT D. BUCKLEY
+DISTRIBUTION
+ORIG: DD/SEC (PTOS)
+COPY: C/PHY. SD
+COPY: D. BUCKLEY
+FILE: BSB/PHYS. SD
+COPY:
+1798
+CONFIDENTIAL
+(94)
+1991
+1798
+1
+
+
+140000
+2
+0
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1111111111000 00 0
+ 0
+ 0
+
+
+
+
+
+	
+	
+
+
+	
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+140000
+DISPATCH
+Chief, the Divisions
+Chief of Station JUAYE
+TYPIC/Operational
+CUIS Recruitont of IDENTITY
+1. On 8 and 13 June 1967 the local LNERGO officer
+who is handling the "IDENTITY case informed a JUNAYE
+officer that she had been recruited from the
+"IDENTITY" of the U.S. Government. He requested that the know-
+l'dge of this information be kept to a minimum, for they
+intend to operate her as a double agent. LNERGO does
+not intend to disconinate the number of people who
+would be aware of the following information was
+provided so that the would furnish LNERGO with traces
+and connotes:
+1. The U.S. DEPARTMENT RECEIVARIATI received permission from U.S. and
+Cuban authorities to travel to Cuba to visit her in-
+prisoned husband. She arrived in Cuba on 7 April 1967
+and " (four) INFANTE of the MININT not hor at the Airport.
+The U.S. Department of the U.S. Department of the
+had to keep Tita. (Inu) at "telephone number 30-2056
+informed of hor overcionts. "Enrique ECIEVARRIA was
+also acsigned to IDENTITY's case and she was a member of
+the U.S. Department of the U.S. Department of the
+described ECHEVARRIA as a DSE officer who had fornorly
+been in the.8. and who had some type of a back ailment.
+Attachment: UDC
+IDENTITY
+Distribution:
+(9) - WH/CCO w/att. U/B/C
+(continued/
+16 Jun 67
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+1
+1
+1
+1
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+
+
+140000
+CONSTRUCTION OF
+DISPACH
+2
+1732-2720 page 2
+B. 40ar KERNADEE was in charge of ter butbend's
+case and 42ul ALICNOS as his abstast. LEMILY said that
+her husband was carefully kept at the Carco Libertad Ecopital,
+not at the kala building, but at a stall building on the
+cigarette, and the 100% of the 100% of the 100% of the copital
+and on one occasion th37 cet in an office at the Villa
+Varista Dototion Center. This office had'telephone burbers
+10-3535 and 40-3538.
+The 100% of the 100% of 100% April 19VANTE made the recruitment patch
+to IDENTITY. He said the pitch was 00 behalf of the DSS and
+vould beonfit her and hor husband. He said if she would
+successfully report on anti-Castro activities in His and
+the 100% of the 100% of the 100% of the 100% of six
+months they would release her husband from custody; and after
+three years of reporting they would grant him permission to
+be the 100% of the 100% of the 100% of the 100% of the
+help her husband; however, she did not have any information
+regarding hor husband's activities nor information about
+anti-Castro activities in Miami. INFANTE instructed her to
+just do her best and he thought everything would work out
+all rights.
+D. For the next few days, INFANTE debriefed her
+ca her family; friends, work, etc.
+1. From 20 thru 22 April she was picked-up daily
+by INFANTE and taken to a saphohose in the 'Arianao district
+of Havana for the 100% of the 100% of the 100% of the 100%
+of the 100% of the 100% of the 100% of the 100% of the
+Pascual gave IDENTITY training in document photography,
+dovolopront, and technique of the 100% of the 100% of the 100%
+of the 100% of the 100% of the use of a single lens reflex canora
+and although she claimed to have dong very poorly, Pascual
+assured hor, that with more practice, she would do IX. He
+told her with his father and two goose neck and practice
+manipas with 100 watt bulbers, her return to Itlan
+etall she the became proficient.
+F. IDENTITY was instructed to print or typowrite
+(using all uppercase lottors) hor reporta as she obtained
+the 100% of the 100% of the 100% of the 100% of the
+dovolop the film, dostory the reporte, and hold the neotivoo.
+Every six months she would take all of the neotivoo to Nov
+Tork and dlovior thom to Cfaichk Honore BATTI (1014)
+and the 100% of the 100% of the 100% of the 100% of 014)
+BAKER was scheduled for any work day between 20 September
+3 October 1967.
+c. IDENTITY was told that the choud have no further
+contacts with the DSE in Cuba, but show the 100% of serious
+trouble, she could write to a 50% of the 100% of the 100%
+of
+Avinola 41 & 6011
+Ent. 68 y 70% Cobich.
+Arianao, Naviana, and
+1011
+Elin and told to make up a flat, noo and diredous and D6
+sinn the lottor with the firing of the 100% of the 100% of the
+2 divons. the did not rocovio a codo nano, was told nothing
+about EIV, was not pronicod nonoy nor oponcos, and was not
+civon nay furthor information or training.
+/continued/
+SALITAR
+us
+K.A P O K/B E C N T
+sopinance
+2
+
+
+140000
+2
+CUNINZATION or
+CISPACI
+K APOKESEC REI
+UTCA-27829
+page 3
+2. Possible JINAVES traces on the above are as follows:
+A. Havana telephone number 30-2056,
+(a) Number listed to Ma Ap,ontota WARERO;
+8 No. 10 Vedado. (1965 Havana Telephone
+Directory)
+(b) Lt. (fau) VARREDO was listed as a DSE
+zember assigned to Villa Marista and in
+charge of prisoners. (UPCA-26564, 30 Dec 16)
+B. Avenida 41 a 6811. Address listed to Pedro Raul
+SOORIGUEZ. (1962 Havana Address Book)
+c. Omar HERMANDEZ.
+(a) Ocar HERNANDEZ name appeared on list of
+Cuban G-2 agonts and/or Cuban officials
+involved in the Revolutionary Trials in
+La Ceban (1961, USA-03228) through 23
+August 1961. (1962 A1-03228) (1962)
+(b) Ocar HERNANDEZ was identified as
+Cormquist and a G-2 agont in Havana the
+infiltrated anti-Castro groups. (UTGA-
+03492, 13 March 62)
+(c) Lt. Oar HEENANDEZ was identified as a
+interroator at Villa Marista. (UROA-
+24433, 3 Tob 60)
+(d) Ocar HERNANDEZ was described as a DSE
+24433, 3 Tob 60)
+(e) Ocar HERNANDEZ acted as an investigator
+in sovoral trials acted on by the Cuban
+Evelutionary Courts. (UROA-25012,
+28 April 66)
+D. Eaul ALFONSO was described as a DSE interrozator
+stationed at Villa Marista. (UROA-27188 A034,
+16 March 67)
+John H. E. EMBIDRIEN
+Paul M.
+KAPOKI
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+100
+10
+1
+1
+1
+1111--------------------------------------------------- - -  ----------                                
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+140000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+142000
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111000000000000000000000000000000000000000000000000000000000000000000000000000000000
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+140000
+15
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+10
+1
+1
+1
+1
+111111111-1---------------在这个colorcolorcolor	101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010110110111011110111111111111111111111111111111111111111111111111111111111111111111111111111
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+140000
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111100000000000000000000000000000000000000000000000000000000000000000000000000000000000
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+140000
+11
+CCINISION OF
+DURATION
+E A P o F / S E C E E T
+UC A11. to 1751-27520
+IDENTITIT
+Karia Lourdes BLANCO Dies do Cuest Dati-821216
+JUH 19 1987
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+
+
+
+10000
+CENTRAL INTELLIGENCE AGENCY
+The
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+1
+1
+1
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+140000
+00-8-3-1-0-3-1-4-4
+- 2 -
+5. He has not been formally charged and she was told that because of his
+condition a cate could not be set. However, she was told not to worry
+because Fidel was a kind ane and would be most lenient with his case.
+She was also told that as far as the Cuban government was concerned
+she could visit with his again at any time in the future.
+6. She stayed with family members of her husband and was permitted to go
+anyther a be liked when not visiting her husband, but because of fear
+she stayed in her quarter.
+and.
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0 - - - -        \  \          \  \
+
+	
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+14/20/0000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100
+00
+0
+ - - - - - - - - - - - - - - - - - - - - - - - - - - -- -- -- -- - - -- -  - - -- -- - - -  - 00 - - - - - 0000' )-colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+14/20/00
+DIA are
+20 May 66
+Subject - withdrawal of U.S.
+Army Proposal - Cuba
+
+
+14/20/00
+-
+SEC. 2
+15413
+ILAS COETALE, Francisco (201-78922)
+Subject was terminated without prejudice by ACSI on 17 January 1966
+File: 7/00/8-66
+F.C. Tinnings 1/3/66
+the 50 15413 and 50 15410
+was
+08 Jan 66. NOSI ment incentitity
+SD-15413 and SD-15410.
+Rinette 23966.
+SECRET
+201-281313
+
+
+14/20/00
+SEVENT
+DOCUMENT TRANSFER AND CAOSS REFERENCE
+R.A.LI 60 DOCUMENT
+DOCUMENT CONTENTIFICATION
+01 FILE NO.
+a. SUSTICIO 00 SOUNCE
+a. DATE
+F. SHOKEE COPY
+a. DATE
+F. SHOKING
+a. 00517
+a. 00517
+0. 00517
+0. 00517
+0. 00517
+DOCUMENT
+10. 00500 REPESECE TO TUE 0116
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10. 00500 REPESECE TO
+10.      .
+.
+.
+.
+.
+.
+.
+.
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+$
+0000000
+0
+0
+
+
+
+
+
+
+00000
+0
+
+0000
+
+00000
+0000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000001
+
+
+
+14-0000
+SECRET
+1.
+DOCUMENT TRANSFER AND CROSS REFERENCE
+SUECT of
+Custes, Gatorios Talle
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1. DATE
+1.
+
+
+FOR DETAILS OF COORDIATION, PLEASE 88: 1/DC/8-66
+File in: 201-281313
+14/02/000
+7 Aug 11 1966
+
+
+14/20/00
+SECRET
+OGC 66-0119
+19 JAN 1988
+Honorable J. Walter Yeagle
+Assistant Attorney General
+Department of Justice
+Washington 25, D. c.
+Dear Mr. Yeagley:
+By letter of 5 January 1966, you advised that the Department is
+contemplating prosecution action againat certain individual's involved in
+the hit-and-run raid conducted in the Havana Harbor area in November
+1965. In this connection, you requested our comments relative to any
+past or current interest this Agency might have had or has in Antonio
+CUESTA Del Valle and whether disclosure of that interest in the event
+of prosecution would be detrimental to its operations. In addition, you
+also requested to be advised whether this Agency has or ever had an
+operational interest in Jorge MAS Couns or his anti-Catre organ-
+sation, the Cuban Representation in Leila (RECP.
+This Agency has no preccent operational interest in CUESTA or
+MAS, although it did have in times past. We do not believe that disclo-
+sare of those past interests would have any serious consequences for
+the Agency.
+For your information, with 393 Committee approval, this Agency
+does have a relationship with the RECEP pursuant to which limited financial
+support is provided for the maintenance of its Miamm office. While MAS
+should not be knowledgeable of this fact, any statements he might make
+should not affect our relationship with that organiscion.
+Sincerely,
+SIGNS
+Lawrence R. Houston
+General Counsel
+cel Thomas Flores
+Donald Huefner.
+SECRET
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+1.17
+
+
+
+CCFIL ETTAL
+MC
+Jan. 14, 1966
+1. Mr. Baladergtooen of GC phoned on 12 January. After checking
+back with "ept. of Justice he learned that latter is in contact with
+Army concerning 'westa. He suggested I not tell Army this but tell
+them that Justice has an interest in the man.
+2. This dated I alled Maykovich who wes wall aware of the
+Justice interest. He said that Justice was now waiting for an
+assessment of the man by Army.
+D. Huefner
+I
+
+
+14/20/00
+CONFIDENTIAL
+K13
+(1988
+DO NOT USE THIS SPACE
+1788 so
+REGISTRATION REQUEST
+DATE
+7979
+201 NO.
+28/313
+NAME
+CUESTA VALLE, Antonio
+ALISES AND/OR SPELLING VARIATIONS
+DATE OF BIRTH
+PLACE OF BIRTH
+CITIZENSHIP
+PRESERT ADDRESS
+OCCUPATION
+FRESENT EMPLOYMENT
+TRAVEL
+ADDITIONAL FERTINENT IDENTIFYING DATA
+Torminated without prejudice 10 May 1966
+SUBJECT would not submit to control.
+DOWHORADO AT 12. YEAR JUN
+NOT ACTOMATIC
+100.10
+100.10
+
+
+140000
+15R1
+2
+SECRET
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+10000
+1
+
+
+
+PAGE2 JYWAVE 1239 S E C R E T
+SECRET
+ATION GROUP MEMO DATED 11 APRIL 66 (POUCHED TO JMWAVE
+WITHOUT MANIFEST) ATTACHMENT, DATED 5 APRIL 66, CON-
+CERNS COCEDITION OF ACSI OP INTO CUBA INVOLVING USE
+OF ANTONIO CUESTA, CRAFT OWNED BY HIM, AND NINE OTHER
+EXILES ASSOCIATED WITH COMMANDOS L AND ALPHA 66.
+2. ON 16 MAY, AFTER RECEIVING INFO INDICATING
+CUESTA AND COMMANDOS L PLANNING SOME FORM OF OP INTO
+CUBA OR HAITI, COS JMWAVE GUERIED CHIEF LOCAL ACSI DET
+RE STATUS OF CUESTA. ACSI CHIEF STATED CUESTA IN PRO-
+CESS OF BEING TERMINATED.
+3. UPON RECEIPT REF INFO cos JMWAVE CHECKED BY
+TELEPHONE WITH CHIEF LOCAL ACSI CONCERNING ALL PERSONS
+MENTIONED REF. LOCAL ACSI CHIEF STATED FOLLOWING:
+A. CUESTA TERMINATED BY ACSI MORNING 23
+MAY.
+B. ON 19 APRIL LOCAL ACSI "ESTABLISHED
+INTEREST" IN ALVAREZ; FERNANDEZ ANTA AND ZALDIZAR BUT
+THIS STILL PENDING, NAMELY, THEY HAVE NOT HEARD FROM
+ACSI HGS RE THEIR REQUEST.
+C. ROMER AND DIAZ NEVER OF OPS INTEREST
+A
+1
+
+
+PAGE 3 J'WAVE 1279 S E C R E T
+TO LOCAL ACSI ALTHO THEY KNOW TO ACSI AS SOMETIME MEMBERS
+OF BOAT CREW HEADED BY ENRICE GCNZALEZ (PERSON INVOLVED
+IN NORTORICUS BAHAMAS INCIDENT OF APRIL 66)
+4. WHILE IMPOSSIBLE PREDICT CUBAN REACTION BELIEVE
+THEY PAY CHARGE THAT 29-33 MAY INCIDENT WAS OPERATION
+BY U.S. ARMY AND PRESENT INFO FROM CAPTURED PERSONNEL AS
+SUBSTANTIATING THEIR CLAIM. IT CLEAR THAT ACSI HAS BEEN
+IN CONTACT WITH CUESTA AND THRU HIM WITH VARIOUS COMMANDOS
+L-ALPHA 66 PERSONALITIES SINCE AT LEAST 65, PROBABLY
+EARLIER. CUESTA ASSOCIATION WITH ACSI WIDELY KNOWN IN
+LOCAL EXILE AND ODYOKE CIRCLES. ALSO POSSIBLE THAT
+CUBANS WILL CHOI SE TO CHARGE THAT OP WAS DIRECTLY SPON-
+SORED OR MASTERMINDED BY KUBARK. IT WOULD APPEAR
+UNLIKELY THAT CUBANS CAN PRODUCE ANY PLAUSIBLE EVIDENCE
+LINKING INCIDENT PARTICIPANTS WITH KUBARK.
+S E C R E T *Reported a clash at sea between a Cuban exile group and
+the CubanArmed Forces.
+BT
+NNNN
+201-28/313
+200
+
+
+14/20/00
+FBI do
+13 Dec 65 (Miami)
+Re- Representation Cukana del
+Brilis (RECE)
+FBI due
+19 Nov 65
+Re- Representation Cukana tel
+Exilis CREE)
+
+
+140000
+Tance
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+CASSACED MESSAGE
+
+
+
+140000
+3000
+SECRET
+100000
+SECRET
+CUMERAL INTELLIGENCE AOBNET
+Intelligence Information Cable
+COUNTRY
+TDCS
+DATE OF
+DSTK
+PNO.
+SUBJECT
+PLACI a
+DATI ACO
+176044
+FOLD REPORT NO.
+AND
+APRAISAL
+ON OR ABOUT 25 OCTOBER 1965 ANTONIO CUESTA DEL VALLE,
+CHIEF OF MILITARY OPERATIONS OF THE COMANDOS L, A MILITANT CUBAN
+ENIGRE ORGANIZATION, PLANS TO LEAVE FLORIDA FOR CUBA WITH A GROUP
+TO CONDUCT AN OPERATION AGAINST CUBA. THE PURPOSE OF THE ACTION IS
+TO DISRUPT THE MOVEMENT OF CUBAN REFUGEES FROM CUBA TO THE UNITED
+STATES, BECAUSE CUESTA FEELS THAT THIS EMIGRATION IS AN INDICATION
+THAT THE UNITED STATES IS MOVING TOWARD A POLICY OF COEX :TENCE WITH
+FIDEL CASTRO RIZZ.
+2. CUESTA WAS SOLICITING MONEY IN MIAMI ON 21 OCTOBER TO
+This material contains information affecting the National Defense of the United States within the meaning of the Empraspe
+Laws. This 18, U.S.C. Suez. 793 and 794, the transposition of revision of which in any manner to no unauthorised
+prohibited by law.
+SECRET
+STATINER ORA AMAYACH NAVY AR AC SCEDD MA NO AD USA OC ON OC OR 00
+
+
+14/00/00
+300
+SACARE
+Tobac
+L. ANDOR E TOWI BLACO LONE AND BELLOV
+32
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+13.4
+,
+
+"
+
+"
+
+"
+,
+,
+11111Gn1nnnnnnnnnnnnnnnnnnnnnnnnnnno
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+100000
+1 set
+ 111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111110000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+
+14/20/00
+REPORT COVER SHEET
+S E C B E T
+FG-6676
+FROG
+Date
+JRMAVE
+10 February 1965
+REPORT OFTICER
+JAMES
+James D. TATTERSFIELD
+FROG.
+EUGGETS OFFICES
+Margaret R. NANKALYUTA
+FROG
+APPROVING OFFICES
+GEE CE.
+Andrew E. HARTSMAR
+BACCOYOUN DATA AND COMSENTS
+TYPIC
+Source: AMDECK-1 from Luis Diaz, a friend who joined Oomandos L
+in 1963.
+RID: Please index.
+MICROFILMED
+686 16 1005
+DOC. MICRO. GER
+Group 1: Excluded from
+Automatic Downgrading
+and Declassification
+SIPHTS
+FEB 11 1963
+OFFIONAL INTRIIS BELOW REED NOT SE FILLED IN IP DUPLICATEO IN ACCOMPANYING REPORT
+DISTRIBUTION
+INTRA-AGENCY
+ESTRA-AGENCY
+4 - HOS:
+1 cy. each to Miami reps. of:
+1 - 00/C
+2 - Santo Domingo
+State, F.B.I., I&NS
+2 - JMBARR
+2 - Panama (for CINCSO) method
+COUNTRY
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+  - - - - - - - - - - - - -  E - E E E E  E  -  -  -                                                 
+colorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolorcolor
+
+
+140000
+FIELD INFORMATION REPORT
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+the
+2813
+
+
+
+14/00/00
+SECRET
+DOCUMENT TRANSFER AND CROSS REFERENCE
+3-07CCT DF
+EXCUMET
+81 FILE NO.
+5. 3:SPATICE 000 SOURCE SOC.
+6. BATE
+7. SQUACCE COTFORTHE
+8. BATE OF 1870.
+9. EVALUATION
+0. BATE FORECESSED
+10. 07500MINATED IN
+11. SATE
+DOCUMENT DISPOSITION
+13. COOOS REFERENCE TO
+15. TAMSFERRED TO
+01 FILE NO.
+FERTIMENT INFORMATION
+10.
+CUESTA OEL VALLE, ANTONIO
+201-281313
+019-300-003
+SEX N DOB?
+UF6 -06214
+OIT?
+17 NOV 64
+DAVE-04911
+OCC?
+RECRUITING MEN FOR CLOV GUTIERREZ MENOVO'S
+GARE IN THE DOMINICAN REPUBLIC.
+R 6501053230
+FILE TIL2 FORM IN FILE NO.
+FROU
+607 000
+SECRET
+(9°-061
+
+
